@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tp1arijkneni</string>
+    <string name="mytext">Welcome to My First Android App Application </string>
+    <string name="login">Login</string>
+    <string name="loginhint">Enter Your Login</string>
+    <string name="password">Password</string>
+    <string name="passwordhint">Enter Your Password</string>
+    <string name="date">date</string>
+    <string name="signinbutton">Sign In</string>
+    <string name="upatebutton">Update Date \n and Time</string>
+
+    <string name="titre">What type of calculation do you want to perform</string>
+
+    <string name="val1_tv">value 1</string>
+    <string name="value1">value 1</string>
+
+    <string name="val2_tv">value 2</string>
+    <string name="value2">value 2</string>
+
+    <string name="sum">Sum</string>
+    <string name="square">Square</string>
+
+    <string name="calculate">Calculate</string>
+
+
+
+
+
+
+
+
+</resources>

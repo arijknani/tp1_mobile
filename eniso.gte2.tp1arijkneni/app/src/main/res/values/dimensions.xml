@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mydimen">40sp</dimen>
+    <dimen name="login_pass">18sp</dimen>
+
+    <dimen name="sum">18sp</dimen>
+    <dimen name="square">18sp</dimen>
+    <dimen name="val1_tv">17sp</dimen>
+    <dimen name="val2_tv">17sp</dimen>
+</resources>
